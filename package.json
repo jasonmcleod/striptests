@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "rimraf": "*",
+    "rimraf": "2.2.8",
     "grunt-contrib-jshint": "~0.6.2",
     "grunt-contrib-nodeunit": "~0.2.0",
     "grunt-contrib-clean": "~0.5.0",
